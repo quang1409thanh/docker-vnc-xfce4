@@ -15,7 +15,7 @@
 
       <p class="author">
         Made with ❤️ by
-        <a href="https://github.com/phanan" rel="noopener" target="_blank">Phan An</a>
+        <a href="https://github.com/quang1409thanh" rel="noopener" target="_blank">Phan An</a>
         and quite a few
         <a href="https://github.com/koel/core/graphs/contributors" rel="noopener" target="_blank">awesome</a>&nbsp;<a
           href="https://github.com/koel/koel/graphs/contributors" rel="noopener" target="_blank"
@@ -35,7 +35,7 @@
 
       <p>
         Loving Koel? Please consider supporting its development via
-        <a href="https://github.com/users/phanan/sponsorship" rel="noopener" target="_blank">GitHub Sponsors</a>
+        <a href="https://github.com/users/quang1409thanh/sponsorship" rel="noopener" target="_blank">GitHub Sponsors</a>
         and/or
         <a href="https://opencollective.com/koel" rel="noopener" target="_blank">OpenCollective</a>.
       </p>
