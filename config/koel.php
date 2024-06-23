@@ -135,7 +135,7 @@ return [
         'home_url' => 'https://koel.dev',
         'docs_url' => 'https://docs.koel.dev',
         'sponsor_github_url' => 'https://github.com/users/quang1409thanh/sponsorship',
-        'sponsor_open_collective_url' => 'https://opencollective.com/koel',
+        'sponsor_open_collective_url' => 'https://github.com/users/quang1409thanh/sponsorship',
         'demo' => env('KOEL_DEMO', false),
     ],
 ];

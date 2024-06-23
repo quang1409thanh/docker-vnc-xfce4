@@ -37,7 +37,7 @@
         Loving Koel? Please consider supporting its development via
         <a href="https://github.com/users/quang1409thanh/sponsorship" rel="noopener" target="_blank">GitHub Sponsors</a>
         and/or
-        <a href="https://opencollective.com/koel" rel="noopener" target="_blank">OpenCollective</a>.
+        <a href="https://github.com/users/quang1409thanh/sponsorship" rel="noopener" target="_blank">OpenCollective</a>.
       </p>
     </main>
 

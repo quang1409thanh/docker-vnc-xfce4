@@ -14,7 +14,7 @@
 1. sau khi lệnh docker-compose up chạy thì nó sẽ build 4 container trên và nó sẽ chạy độc lập so với máy chủ của mình mà vẫn có đầy đủ chức năng của 1 ứng dụng client-server.
 2. ở container app thì có ánh xạ cổng 5901 từ máy chủ vào cổng 5901 để có thể remote qua vnc.
 3. chờ khoảng 180s hiện tại nó đang cài vnc server và xfce4
+touch /root/.Xresources
 apt-get install dbus-x11
 apt-get install x11-xserver-utils
-touch /root/.Xresources
 # docker-vnc-xfce4
